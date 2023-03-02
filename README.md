@@ -61,3 +61,8 @@ alternatively build it so it doesn't occupy a terminal
 ```shell
 ./vendor/bin/sail test
 ```
+### Login
+After the csv is imported, there are users auto-generated, according to the number of customers and sellers.
+The emails are being generated with prefix 'buyer' or 'seller' accordingly, followed by an incrementing number, suffixed with '@email.com'
+The password for all users is 'password' for convenience.
+
