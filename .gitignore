@@ -21,3 +21,5 @@ yarn-error.log
 .editorconfig
 .php-cs-fixer.cache
 storage
+pack
+package-lock.json
