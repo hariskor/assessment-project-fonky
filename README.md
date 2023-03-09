@@ -1,5 +1,7 @@
 # assessments/assessment-project
 
+This is the project I did for the challenge from  [fonky](https://github.com/fonkyNL/fonky-challenge)
+
 
 I generated the project using (Initializer for Laravel). 
 To quickly setup the project, use the following script provided:
